@@ -1,6 +1,6 @@
 # Advanced DNA Sequence Analysis and Alignment Toolkit
 
-Production-ready Python toolkit for DNA edit distance, local sequence alignment, reversible Burrows-Wheeler Transform (BWT) preprocessing, and exact pattern matching.
+Python toolkit for DNA edit distance, local sequence alignment, reversible Burrows-Wheeler Transform (BWT) preprocessing, and exact pattern matching.
 
 The project began as a single exploratory notebook. It is now organized as a tested package with a command-line interface, input validation, deterministic algorithms, and developer documentation.
 
